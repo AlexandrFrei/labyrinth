@@ -1,0 +1,44 @@
+C:\Users\Alex\Desktop\Программная инженерия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\Alex\Desktop\Программная инженерия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\Программная инженерия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\Alex\Desktop\Программная инженерия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Программная инженерия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Программная инженерия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\Программная инженерия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\mscorlib.dll
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\System.Net.Http.dll
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\System.Net.Http.xml
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\normidna.nlp
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\normnfc.nlp
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\normnfd.nlp
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\normnfkc.nlp
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\normnfkd.nlp
+C:\Users\asustud\Downloads\LR1\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\Alex\Desktop\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\LR1\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\Alex\Desktop\LR1\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\LR1\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\LR1\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\LR1\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\Alex\Desktop\LR1 — копия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\Alex\Desktop\LR1 — копия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\LR1 — копия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\Alex\Desktop\LR1 — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\LR1 — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\LR1 — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\LR1 — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\Alex\Desktop\LR1 — копия — копия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\Alex\Desktop\LR1 — копия — копия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\LR1 — копия — копия\ЛР1\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\Alex\Desktop\LR1 — копия — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\LR1 — копия — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\LR1 — копия — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\Alex\Desktop\LR1 — копия — копия\ЛР1\ЛР1\ЛР1\obj\Debug\ЛР1.pdb

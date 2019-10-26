@@ -163,9 +163,7 @@ namespace ЛР1
                 {
                     count = path[1].Where(x => x == 'W').Count();
                 }
-
                 Room[,] Labyrinth = new Room[count+1, count * 2 + 1];
-
                 lX = count;
                 lY = 0;
                 for (int j = 0; j < 2; j++)
@@ -198,7 +196,6 @@ namespace ЛР1
                     }
                     Labyrinth[lY, lX] =  LastStep(Labyrinth[lY, lX]);
                     TurnBack();
-
                 }
                 listMap += Map(Labyrinth, count);
             }
@@ -259,17 +256,13 @@ namespace ЛР1
 
         static void Main(string[] args)
         {
-            string[] test = File.ReadAllLines("test.in.txt");
-            string restest = Read(test);
-            Write(restest, @"D:\1.txt");
-
             string[] lines1 = File.ReadAllLines("small-test.in.txt");
             string reslines1 = Read(lines1);
-            Write(reslines1, @"D:\2.txt");
+            Write(reslines1, @"small-test.out.txt");
 
             string[] lines2 = File.ReadAllLines("large-test.in.txt");
             string reslines2 = Read(lines2);
-            Write(reslines2, @"D:\3.txt");
+            Write(reslines2, @"large-test.out.txt");
         }
     }
 }
